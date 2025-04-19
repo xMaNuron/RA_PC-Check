@@ -25,7 +25,7 @@ With this script, everything is in the console, so unfortunately, there is no sa
 
 ## Credits
 
-These two files are from [dyvertigo](https://github.com/dyvertigo/pcCheck) and [zeywya](https://github.com/zeywya/PcCheckerr) and got change to fit to us. 
+These two files are from [dyvertigo](https://github.com/dyvertigo/pcCheck) and [zeywya](https://github.com/zeywya/PcCheckerr) and got change from me to fit our team for tournaments. 
 
 ## License
 
