@@ -4,9 +4,9 @@ This is a script repos for Red Angels eSports when cheating is suspected in a to
 
 # Files
 
-Version 1: PcCheck1.ps1, the version with the Discord webhook
+Version 1: [PcCheck1.ps1](https://raw.githubusercontent.com/xMaNuron/RA_PC-Check/refs/heads/main/pcCheck1.ps1), the version with the Discord webhook
 
-Version 2: PcCheck2.ps1, the version without the Discord webhook
+Version 2: [PcCheck2.ps1](https://raw.githubusercontent.com/xMaNuron/RA_PC-Check/refs/heads/main/pcCheck2.ps1), the version without the Discord webhook
 
 
 ## Execution 
