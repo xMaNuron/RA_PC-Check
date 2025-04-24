@@ -11,13 +11,13 @@ Version 2: [PcCheck2.ps1](https://raw.githubusercontent.com/xMaNuron/RA_PC-Check
 
 ## Execution 
 
-Version 1: Open Powershell and for this command:
+Version 1: Open Powershell and run this command:
 
     iwr -useb https://raw.githubusercontent.com/xMaNuron/RA_PC-Check/refs/heads/main/pcCheck1.ps1 | iex
 
 With this version, a file is sent to Discord as a webhook, but also a copy of the file is created on the desktop. If there isn't one there, simply paste it with Ctrl + V.
 
-Version 2: Open Powershell as administrator and for this command:
+Version 2: Open Powershell as administrator and run this command:
 
     iwr -useb https://raw.githubusercontent.com/xMaNuron/RA_PC-Check/refs/heads/main/pcCheck2.ps1 | iex
 
